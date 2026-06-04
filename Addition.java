@@ -9,7 +9,7 @@ public class Addition
         a=sc.nextInt();
         b=sc.nextInt();
         c=a+b;
-        System.out.println("sum is" + +c);
+        System.out.println("sum is" +c);
 
     }
 }
