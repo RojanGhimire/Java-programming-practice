@@ -1,12 +1,12 @@
 public class Hello
 {
-    static void Hello ()
+    static void Hell()
     {
         System.out.println("Hello world");
     }
 
-public static void main (string[]args)
+public static void main (String []args)
 {
-    Hello();
+    Hell();
 }
 }
